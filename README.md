@@ -11,5 +11,5 @@ Repository ini berisi latihan dasar HTML sebagai bagian dari proses pembelajaran
 - Link
 - Image
 - Table
-- Fo
+- Form
 - Navigasi antar halaman
